@@ -1,0 +1,26 @@
+name: História
+description: Um resultado observável para alguém
+body:
+  - type: textarea
+    id: resultado
+    attributes:
+      label: Resultado
+      description: Escreva como resultado, não como atividade.
+      placeholder: O leitor encontra obras combinando ritmo e movimento.
+    validations: { required: true }
+  - type: textarea
+    id: aceite
+    attributes:
+      label: Critérios de aceitação
+      description: Verificáveis por alguém que não escreveu este item.
+    validations: { required: true }
+  - type: input
+    id: adr
+    attributes:
+      label: ADR relacionada
+      description: Número da ADR, ou "nenhuma decisão em jogo".
+    validations: { required: true }
+  - type: textarea
+    id: risco
+    attributes:
+      label: Se Risco Alto — o que se aprende caso falhe?
