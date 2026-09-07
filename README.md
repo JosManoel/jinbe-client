@@ -8,8 +8,8 @@
   
   <p>NVIDIA Triton Inference - Kotlin/Android Client</p>
   <p align="center">
-    <img src="https://img.shields.io/github/last-commit/Arco-de-Treinamento/Shishin-no-Ken/main">
-    <img src="https://img.shields.io/github/license/Arco-de-Treinamento/Shishin-no-Ken">
+    <img src="https://img.shields.io/github/last-commit/JosManoel/jinbe-client">
+    <img src="https://img.shields.io/github/license/JosManoel/jinbe-client">
   </p>
 </h1>
 
@@ -50,7 +50,7 @@ Eu achei que ficaria legal.
 
 <h2 id="consideracoes">📑 Considerações</h2>
 
-Este projeto está sendo desenvolvido exclusivamente dentro da disciplina de **Processos de Software (DIM0510)**, ministrada como matéria optativa para o curso de **Bacharelado em Tecnologia da Informação**, no **[Instituto Metrópole Digital](https://www.metropoledigital.ufrn.br/portal/)/[UFRN](https://ufrn.br)**
+Este projeto está sendo desenvolvido exclusivamente dentro da disciplina de **Processos de Software (DIM0510)**, ministrada como matéria optativa para o curso de **Bacharelado em Tecnologia da Informação**, no **[Instituto Metrópole Digital](https://www.metropoledigital.ufrn.br/portal/)/[UFRN](https://ufrn.br)**.
 
 * **Grupo de desenvolvimento:** Switch Desbloqueado Team
 * **Discente:** José Manoel Freitas da Silva (**Mat.:** 20220039467) | [JosManoel](https://github.com/JosManoel)
@@ -58,7 +58,7 @@ Este projeto está sendo desenvolvido exclusivamente dentro da disciplina de **P
 
 > Esse projeto ainda terá o desenvolvimento de uma pequena documentação e a implementação de um aplicativo de testes simples, com detecção facial utilizando o modelo [Ultra Light Fast Generic Face Detector](https://github.com/linzaer/ultra-light-fast-generic-face-detector-1mb), rodando locamente em uma máquina sem GPU.
 
-TO-DO incluir MVP
+Para **MVP** e **Visão**, ver [proposta.md](docs/proposta.md).
 <hr>
 
 <h2 id="licenca">📝 Licença</h2>
