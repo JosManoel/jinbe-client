@@ -3,11 +3,11 @@
 ## 1. Visão do produto
 
 ```
-Para  Desenvolvedores de aplicações Android
-Que   querem implementar soluções utilizando o Triton Inference Server
-Com   maior facilidade e com os mesmos recursos das soluções em Python
-Utilizando comunicação via HTTP e gRPC, diferente da biblioteca em Java
-disponibilizada pela Alibaba Cloud PAI Team.
+Para         Desenvolvedores de aplicações Android
+Que          querem implementar soluções utilizando o Triton Inference Server
+O            Jinbe-Client é uma biblioteca em Kotlin
+Que          implementa um cliente Triton Inference com suporte a gRPC
+Diferente da biblioteca em Java disponibilizada pela Alibaba Cloud PAI Team.
 ```
 
 **Hipótese de valor:** acreditamos que o uso de uma biblioteca própria em vez do uso do protoc compiler pode trazer benefícios para o desenvolvimento de aplicações android que dependem de servidores de inferência por redes neurais.
@@ -39,11 +39,6 @@ disponibilizada pela Alibaba Cloud PAI Team.
 ---
 
 ## 3. Backlog inicial
-
-No GitHub Projects, com os campos descritos em
-[`processo/backlog.md`](../processo/backlog.md).
-
-Quadro: `github.com/fmarquesfilho/musi/projects`
 
 | Prio | História | Critérios de aceitação | Sprint |
 |---|---|---|---|
