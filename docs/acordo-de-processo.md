@@ -13,17 +13,6 @@
 
 ---
 
-## Cerimônias
-
-| Cerimônia | Frequência | Duração | Pergunta que responde |
-|---|---|---|---|
-| Planejamento | por sprint | 30 min | Por que esta sprint tem valor? |
-| Revisão | por sprint | 20 min | O incremento serve? |
-| Retrospectiva | por sprint | 30 min | O que mudamos no processo? |
-
-
----
-
 ## Definição de Pronto
 
 Um item sai de "Em revisão" quando **todos** os itens abaixo são verdade:
@@ -32,8 +21,6 @@ Um item sai de "Em revisão" quando **todos** os itens abaixo são verdade:
 - [ ] Revisado no pull request (conflitos)
 - [ ] Pipeline de CI verde no job do componente tocado
 - [ ] Critérios de aceitação do item verificados
-- [ ] Se mudou `contratos/`, os componentes afetados atualizados no **mesmo PR**
-- [ ] Uso de IA declarado no corpo do PR
 
 ---
 
@@ -61,7 +48,7 @@ Um item sai de "Em revisão" quando **todos** os itens abaixo são verdade:
 
 | Coluna | WIP máximo |
 |---|---|
-| Em progresso | 2 por pessoa |
+| Em progresso | 1 por pessoa |
 | Em revisão | 1 no total |
 
 ---
