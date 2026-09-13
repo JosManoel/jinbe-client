@@ -44,12 +44,13 @@ Diferente da biblioteca em Java disponibilizada pela Alibaba Cloud PAI Team.
 |---|---|---|---|
 | P1 | Como desenvolvedor, quero saber o status do meu servidor | Recupera status do servidor; sem resultado, mostra sem servidor disponível | 1 |
 | P1 | Como desenvolvedor, quero saber os modelos disponíveis no meu servidor | Recupera os modelos do servidor; sem resultado, mostra sem modelos disponíveis | 1 |
+| P1 | Como desenvolvedor, quero saber os status dos modelos disponíveis no meu servidor | Recupera os status dos modelos do servidor, incluindo informações de I/O | 1 |
 | P1 | Como desenvolvedor, quero realizar requisições de inferências por HTTP  | Realiza inferência por HTTP a partir do modelo, caso servidor disponível | 1 |
 | P2 | Como desenvolvedor, quero realizar requisições de inferências por gRPC  | Realiza inferência por gRPC a partir do modelo, caso servidor disponível | 2 |
 
 ---
 
-## 4. Decisões técnicas, por disciplina
+## 4. Decisões técnicas
 
 Em [`docs/acordo-de-processo.md`](../docs/acordo-de-processo.md).
 

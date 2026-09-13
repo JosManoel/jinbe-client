@@ -52,13 +52,16 @@ Eu achei que ficaria legal.
 
 Este projeto está sendo desenvolvido exclusivamente dentro da disciplina de **Processos de Software (DIM0510)**, ministrada como matéria optativa para o curso de **Bacharelado em Tecnologia da Informação**, no **[Instituto Metrópole Digital](https://www.metropoledigital.ufrn.br/portal/)/[UFRN](https://ufrn.br)**.
 
-* **Grupo de desenvolvimento:** Switch Desbloqueado Team
+* **Grupo de desenvolvimento:** _SwitchDesbloqueado_ Team
 * **Discente:** José Manoel Freitas da Silva (**Mat.:** 20220039467) | [JosManoel](https://github.com/JosManoel)
 
 
 > Esse projeto ainda terá o desenvolvimento de uma pequena documentação e a implementação de um aplicativo de testes simples, com detecção facial utilizando o modelo [Ultra Light Fast Generic Face Detector](https://github.com/linzaer/ultra-light-fast-generic-face-detector-1mb), rodando locamente em uma máquina sem GPU.
 
-Para **MVP** e **Visão**, ver [proposta.md](docs/proposta.md).
+* _Para **MVP** e **Visão**, ver [proposta.md](docs/proposta.md)_
+* _Para **Board**, ver [Board](https://github.com/users/JosManoel/projects/1/views/1)_
+* _Para **Roadmap**, ver [Roadmap](https://github.com/users/JosManoel/projects/1/views/2)_
+
 <hr>
 
 <h2 id="licenca">📝 Licença</h2>
