@@ -5,7 +5,7 @@
 <h1 align = "center">
 
   Jinbe Client [[🇧🇷](README.md)/...]
-  
+
   <p>NVIDIA Triton Inference - Kotlin/Android Client</p>
   <p align="center">
     <img src="https://img.shields.io/github/last-commit/JosManoel/jinbe-client">
@@ -23,7 +23,7 @@
 
 <h2 id = "sobre-este-projeto">🔍 Sobre este projeto</h2>
 
-O **Jinbe Client** implementa uma biblioteca para comunicação entre aplicações **Android Nativo _(Kotlin)_** e servidores **NVIDIA Triton Inference**, utilizando [HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Reference/Methods) ou [gRPC](https://grpc.io). 
+O **Jinbe Client** implementa uma biblioteca para comunicação entre aplicações **Android Nativo _(Kotlin)_** e servidores **NVIDIA Triton Inference**, utilizando [HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Reference/Methods) ou [gRPC](https://grpc.io).
 
 ### O que é o NVIDIA Triton Inference
 
@@ -36,7 +36,7 @@ Para mais informações: [NVIDIA Triton Inference Server](https://docs.nvidia.co
 
 ### Qual o propósito dessa biblioteca?
 
-Atualmente, para desenvolver aplicações Android que consomem soluções do Triton Server é necessário utilizar o [protoc compiler](https://protobuf.dev/getting-started/) para compilar uma API gRPC, diferente das aplicações criadas em C++ e Python, que possuem clientes próprios. 
+Atualmente, para desenvolver aplicações Android que consomem soluções do Triton Server é necessário utilizar o [protoc compiler](https://protobuf.dev/getting-started/) para compilar uma API gRPC, diferente das aplicações criadas em C++ e Python, que possuem clientes próprios.
 
 Ainda existe uma [API em java](https://github.com/triton-inference-server/client/tree/main/src/java), desenvolvida pela [Alibaba Cloud PAI Team](https://www.alibabacloud.com/en?_p_lc=1&utm_content=se_1024016509&gclid=CjwKCAjwnvTUBhBoEiwAZNDxZ3jKFQxFVLWfrUGclGxMyK-AKQ2INCyNEU-nsL1wyRQGrXy_3eFJNRoCQ0EQAvD_BwE) e que poderia ser utilizada para o desenvolvimento de aplicativos Android, mas ela é limitada e só suporta requisições em HTTP, que não possuem um bom desempenho com processamento de imagem.
 
@@ -61,6 +61,7 @@ Este projeto está sendo desenvolvido exclusivamente dentro da disciplina de **P
 * _Para **MVP** e **Visão**, ver [proposta.md](docs/proposta.md)_
 * _Para **Board**, ver [Board](https://github.com/users/JosManoel/projects/1/views/1)_
 * _Para **Roadmap**, ver [Roadmap](https://github.com/users/JosManoel/projects/1/views/2)_
+* _Para **Vídeo de Apresentação**, ver [Apresentação - Jinbe-Client](https://youtu.be/j8ja0Y44uKM)_
 
 <hr>
 
@@ -71,6 +72,6 @@ Este projeto está sendo desenvolvido exclusivamente dentro da disciplina de **P
 <hr>
 
 <div align = "center">
-  
+
   👋🏾 Feito por [JosManoel](https://github.com/JosManoel) com ☕ ☕ ☕ ☕ ☕ , 🎧 e 💻.
-</div> 
+</div>
