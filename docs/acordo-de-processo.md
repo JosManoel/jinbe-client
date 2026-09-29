@@ -21,6 +21,7 @@ Um item sai de "Em revisão" quando **todos** os itens abaixo são verdade:
 - [ ] Revisado no pull request (conflitos)
 - [ ] Pipeline de CI verde no job do componente tocado
 - [ ] Critérios de aceitação do item verificados
+- [ ] Uso de IA declarado no PR
 
 ---
 

@@ -55,13 +55,19 @@ Este projeto está sendo desenvolvido exclusivamente dentro da disciplina de **P
 * **Grupo de desenvolvimento:** _SwitchDesbloqueado_ Team
 * **Discente:** José Manoel Freitas da Silva (**Mat.:** 20220039467) | [JosManoel](https://github.com/JosManoel)
 
-
 > Esse projeto ainda terá o desenvolvimento de uma pequena documentação e a implementação de um aplicativo de testes simples, com detecção facial utilizando o modelo [Ultra Light Fast Generic Face Detector](https://github.com/linzaer/ultra-light-fast-generic-face-detector-1mb), rodando locamente em uma máquina sem GPU.
 
 * _Para **MVP** e **Visão**, ver [proposta.md](docs/proposta.md)_
 * _Para **Board**, ver [Board](https://github.com/users/JosManoel/projects/1/views/1)_
 * _Para **Roadmap**, ver [Roadmap](https://github.com/users/JosManoel/projects/1/views/2)_
 * _Para **Vídeo de Apresentação**, ver [Apresentação - Jinbe-Client](https://youtu.be/j8ja0Y44uKM)_
+
+### Uso de inteligência artificial
+
+Parte deste material foi produzida com assistência de IA generativa, e isso está declarado.
+A autoria e a responsabilidade permanecem humanas. Ver:
+[`processo/definicao-de-pronto.md`](processo/definicao-de-pronto.md).
+
 
 <hr>
 
